@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d00e16a63b469374ebc670c28927dd7e, type: 3}
+  m_Name: Yep
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1441469199589137703, guid: 25e6dde354d66d5449d83350ae708fbb, type: 3}
+  type: 1
+  description: yar
+  attackBonus: 8
+  defenseBonus: 4
